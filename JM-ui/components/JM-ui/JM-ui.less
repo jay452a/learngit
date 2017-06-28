@@ -1,0 +1,19 @@
+@fontColor:#f67a17;
+@bgColor:#f67a17;
+@borderColor:#dcdcdc;
+.borderBt(@border_width:1px){
+    border-bottom: @border_width solid @borderColor;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    color: #333333;
+    list-style: none;
+}
+.JM-loading{color: @fontColor;text-align: center;font-size: 18px;}
+
+.JM-list{
+    .borderBt();
+    padding: 10px 2.5%;
+}

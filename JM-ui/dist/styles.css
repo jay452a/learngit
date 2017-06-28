@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: #333333;
+}
+.JM-loading {
+  color: #f67a17;
+  text-align: center;
+  font-size: 18px;
+}
+.JM-list {
+  border-bottom: 1px solid #dcdcdc;
+  padding: 10px 2.5%;
+}

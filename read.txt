@@ -1,2 +1,1 @@
-this is a git test
-change
+this is a vue self-components
